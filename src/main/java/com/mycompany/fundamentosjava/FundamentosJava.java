@@ -11,6 +11,6 @@ package com.mycompany.fundamentosjava;
 public class FundamentosJava {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Hola mundo");
     }
 }
